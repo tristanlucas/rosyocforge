@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/bot/build_ws/tmp
+SSTATE_DIR /home/bot/build_ws/tmp/sstate-cache
+NATIVELSBSTRING ubuntu-22.04
